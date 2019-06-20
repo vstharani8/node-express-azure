@@ -4,6 +4,7 @@
 
 This is a Node and Express web application used to demonstrate CI/CD with Azure DevOps. You can clone this repo and use it within Azure DevOps to build, test, and release to an Azure App Service web app.
 
+[![Build Status](https://dev.azure.com/vaishnavivt/node-express/_apis/build/status/vstharani8.node-express-azure?branchName=master)](https://dev.azure.com/vaishnavivt/node-express/_build/latest?definitionId=4&branchName=master)
 ## Running and Testing Locally:
 
 You can use these commands to install, test, and run the app locally. (Not Required)
